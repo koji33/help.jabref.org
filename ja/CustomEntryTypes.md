@@ -1,4 +1,12 @@
 ---
-redirect:   /en/CustomEntryTypes
-layout:     redirect
+title: 項目型の調整
+helpCategories: ["設定"]
 ---
+
+# 項目型の調整
+
+```
+《註》この機能の説明は，まだ十分ではありません．このヘルプファイルの原文の編集に貢献をお願い致します．
+```
+
+この機能は，**BibTeX → 項目型の調整** で利用できます．

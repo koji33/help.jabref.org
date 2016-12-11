@@ -14,6 +14,16 @@ title: ヘルプ目次
 </div>
 
 
+## FAQ
+- [貢献方法](/en/FAQcontributing)
+- [General](/en/FAQgeneral)
+- [JabRef and Linux](/en/FAQlinux)
+- [JabRef and Mac OS X](/en/FAQosx)
+- [Other](/en/FAQother)
+- [Sharing](/en/FAQsharing)
+- [JabRef and Windows](/en/FAQwindows)
+
+
 ## 一般
 - [自動保存](/ja/Autosave)
 - [JabRef 基本ウィンドウ](/ja/BaseFrame)
@@ -39,28 +49,28 @@ title: ヘルプ目次
 
 
 ## 項目の検索・整序・整理
-- [Check integrity](/ja/CheckIntegrity)
-- [Cleanup entries](/ja/CleanupEntries)
+- [整合性の検査](/ja/CheckIntegrity)
+- [項目の整理](/ja/CleanupEntries)
 - [重複の検出](/ja/FindDuplicates)
-- [Find unlinked files](/ja/FindUnlinkedFiles)
+- [リンクされていないファイルを検索](/ja/FindUnlinkedFiles)
 - [グループ](/ja/Groups)
 - [項目の標識付け](/ja/Marking)
-- [Merge entries](/ja/MergeEntries)
-- [Replace string](/ja/ReplaceString)
+- [項目の統合](/ja/MergeEntries)
+- [文字列の置換](/ja/ReplaceString)
 - [検索](/ja/Search)
-- [Synchronize file links](/ja/SynchroFileLinks)
+- [ファイルリンクの同期](/ja/SynchroFileLinks)
 
 
 ## 設定
 - [BibTeX鍵(キー)生成方法の調整](/ja/BibtexKeyPatterns)
 - [項目型の調整](/ja/CustomEntries)
-- [Customize entry types](/ja/CustomEntryTypes)
-- [Customize key bindings](/ja/CustomKeyBindings)
+- [項目型の調整](/ja/CustomEntryTypes)
+- [キー割当の調整](/ja/CustomKeyBindings)
 - [データベース特性ウィンドウ](/ja/DatabaseProperties)
-- [Manage external file types](/ja/ExternalFileTypes)
+- [外部ファイル型の管理](/ja/ExternalFileTypes)
 - [汎用フィールドの調整](/ja/GeneralFields)
 - [項目プレビューの設定](/ja/Preview)
-- [Manage protected terms](/ja/ProtectedTerms)
+- [予約語の管理](/ja/ProtectedTerms)
 - [文字列エディタ](/ja/StringEditor)
 
 
@@ -77,7 +87,7 @@ title: ヘルプ目次
 - [読込検査ウィンドウ](/ja/ImportInspectionDialog)
 - [Medline (txt)形式とMedline (XML)形式およびRIS形式の比較](/ja/MedlineRIS)
 - [MS Office文献XML形式](/ja/MsOfficeBibFieldMapping)
-- [New subdatabase based on AUX file](/ja/NewBasedOnAux)
+- [AUXファイルからの新規部分データベース](/ja/NewBasedOnAux)
 - [OpenOffice.org / LibreOffice の統合](/ja/OpenOfficeIntegration)
 - [外部SQLデータベースへの書き出し](/ja/SQLExport)
 - [JabRefにおけるXMPメタデータ サポート](/ja/XMP)
